@@ -7,3 +7,6 @@ MiniRag App is a streamlined and scalable web application designed to facilitate
 - Ctreate a virtual environment for RAG app 
 - create a requirmnent.txt
 
+
+## optional for writing the command in a new serparte line.
+export PS1="\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$ "
