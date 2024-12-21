@@ -22,3 +22,9 @@ $ pip install -r requirements.txt
 
 
 ## Copy the examples of .env likes API_KEY
+
+## Running App
+'''bash
+$ uvicorn main:app --reload --host 0.0.0.0 --port 5000
+'''
+
