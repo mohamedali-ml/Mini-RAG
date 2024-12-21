@@ -9,4 +9,16 @@ MiniRag App is a streamlined and scalable web application designed to facilitate
 
 
 ## optional for writing the command in a new serparte line.
+'''bash
 export PS1="\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$ "
+'''
+
+## Install the required packages
+
+'''bash 
+$ pip install -r requirements.txt
+'''
+
+
+
+## Copy the examples of .env likes API_KEY
